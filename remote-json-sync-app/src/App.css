@@ -1,0 +1,22 @@
+.App {
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.2em;
+}
+
+.App-content {
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.App-pre {
+  min-width: 300px
+}
